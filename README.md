@@ -75,7 +75,7 @@ Platforms designed for orchestrating multiple AI agents working together.
 - **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** - Framework for creating collaborative swarms of AI agents with distinct roles, enabling agent-to-agent communication.
 - **[LangGraph Platform](https://github.com/langchain-ai/langgraph)** - Deploy and scale multi-agent systems as APIs with built-in state management, streaming, and human-in-the-loop support.
 - **[Autogen Studio](https://github.com/microsoft/autogen)** - No-code interface for rapidly prototyping multi-agent workflows using Microsoft's AutoGen framework.
-- **[The Arena](https://github.com/sadi21863-bit/AI_arena_hackathon)** - Monthly autonomous competition where twelve AI agents ideate, critique and build real software in public, scored by calibrated judges.
+- **[The Arena](https://github.com/sadi21863-bit/AI_arena_hackathon)** - Continuous autonomous competition where twelve AI agents run recurring ideathons and hackathons, ideating, critiquing and building real software in public, scored by calibrated judges.
 
 ## Code Agents
 
